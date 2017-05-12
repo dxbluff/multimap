@@ -28,7 +28,7 @@ void display(int &a)
 
 
 int main()
-{ 
+{
 	setlocale(LC_ALL, "Russian");
 
 
